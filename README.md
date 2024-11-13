@@ -3,7 +3,7 @@
 
 
 ## 📫 Contacts:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mykolasaveliev/) [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:kolya59264@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mykolasaveliev/) [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:kolya59264@gmail.com)
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=black&color=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React%2FReact_Native-black?style=for-the-badge&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-%235FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![HTML](https://img.shields.io/badge/html-%23E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
