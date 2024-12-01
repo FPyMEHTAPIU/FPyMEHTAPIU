@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @FPyMEHTAPIU, but you can call me Nick :)<br>👀 I’m interested in Web, Mobile and Software Development<br>👨🏻‍💻 Now I study at <a href="https://www.hive.fi/en/">Hive Helsinki</a> coding academy<br>🌱 I’m currently working with JavaScript/TypeScript, React, React Native, C and C++<br>💼 I have a background in GameDev, here is <a href="https://gameportfolio.notion.site/Mykola-Saveliev-77f10c779fda4d84a664539c9e0d54ac?pvs=4">link to my GameDev Portfolio</a><br>💞️ I’m looking for an opportunity in a company where I can improve my skills<br>
+👋 Hi, I’m Nick :)<br>👀 I’m interested in Web, Mobile and Software Development<br>👨🏻‍💻 Now I study at <a href="https://www.hive.fi/en/">Hive Helsinki</a> coding academy<br>🌱 I’m currently working with JavaScript/TypeScript, React, React Native, C and C++<br>💼 I have a background in GameDev, here is <a href="https://gameportfolio.notion.site/Mykola-Saveliev-77f10c779fda4d84a664539c9e0d54ac?pvs=4">link to my GameDev Portfolio</a><br>💞️ I’m looking for an opportunity in a company where I can improve my skills<br>
 
 
 ## 📫 Contacts:
