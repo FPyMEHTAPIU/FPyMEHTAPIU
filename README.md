@@ -12,7 +12,9 @@
  ![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=GNU%20Bash&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 
 # 📊 GitHub Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FPyMEHTAPIU&card_width=300&card_height=140&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats) </br> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FPyMEHTAPIU&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FPyMEHTAPIU&card_width=300&card_height=140&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats) </br> 
+![Most used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FPyMEHTAPIU&&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=FPyMEHTAPIU&icon=0&color=10)](https://visitcount.itsvg.in)
